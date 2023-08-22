@@ -1,0 +1,4 @@
+.hero-wrapper {
+    background-image: radial-gradient(circle, rgba(5, 8, 22, 0.95) 0%, rgba(21, 16, 48, 0.95) 100%), url('/src/assets/herobg3.png');
+
+}
