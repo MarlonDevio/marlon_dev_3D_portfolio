@@ -20,15 +20,21 @@ function App() {
           <Navbar />
           <Hero />
         </div>
-        <About />
-        <Experience />
-        <Tech />
-        <Works />
-        <Feedbacks />
-        <div className="relative z-0">
-          <Contact />
-          <StarsCanvas />
-        </div>
+
+        <h1 className="font-poppins ">
+          UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER
+          CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION
+          UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION{" "}
+        </h1>
+        {/*<About />*/}
+        {/*<Experience />*/}
+        {/*<Tech />*/}
+        {/*<Works />*/}
+        {/*<Feedbacks />*/}
+        {/*<div className="relative z-0">*/}
+        {/*  <Contact />*/}
+        {/*<StarsCanvas />*/}
+        {/*</div>*/}
       </div>
     </BrowserRouter>
   );
