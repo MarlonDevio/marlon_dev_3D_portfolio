@@ -12,7 +12,7 @@ import Experience from "./Experience.jsx";
 import Works from "./Works.jsx";
 import Feedbacks from "./Feedbacks.jsx";
 import Contact from "./Contact.jsx";
-import { ComputersCanvas } from "./canvas";
+import { Computers } from "./canvas";
 
 export {
   Hero,
@@ -23,7 +23,7 @@ export {
   Works,
   Feedbacks,
   Contact,
-  ComputersCanvas,
+  Computers,
   // EarthCanvas,
   // BallCanvas,
   // ComputersCanvas,
