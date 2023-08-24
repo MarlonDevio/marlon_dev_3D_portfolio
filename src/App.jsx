@@ -21,12 +21,12 @@ function App() {
           <Hero />
         </div>
 
+        <About />
         <h1 className="font-poppins ">
           UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER
           CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION
           UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION{" "}
         </h1>
-        {/*<About />*/}
         {/*<Experience />*/}
         {/*<Tech />*/}
         {/*<Works />*/}
