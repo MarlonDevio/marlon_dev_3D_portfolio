@@ -1,9 +1,3 @@
-// import {
-//   EarthCanvas,
-//   BallCanvas,
-//   ComputersCanvas,
-//   StarsCanvas,
-// } from "../../../components/canvas/index.js";
 import Hero from "./Hero.jsx";
 import Navbar from "./Navbar.jsx";
 import About from "./About.jsx";
@@ -14,6 +8,12 @@ import Feedbacks from "./Feedbacks.jsx";
 import Contact from "./Contact.jsx";
 import { Computers } from "./canvas";
 import ComputersCanvas from "./canvas/Computers.jsx";
+
+import {
+  EarthCanvas,
+  StarsCanvas,
+  BallCanvas,
+} from "../components/canvas/index.js";
 
 export {
   Hero,
@@ -26,8 +26,7 @@ export {
   Contact,
   Computers,
   ComputersCanvas,
-  // EarthCanvas,
-  // BallCanvas,
-  // ComputersCanvas,
-  // StarsCanvas,
+  EarthCanvas,
+  BallCanvas,
+  StarsCanvas,
 };

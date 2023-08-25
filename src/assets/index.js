@@ -20,6 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import python from "./tech/python.svg";
 
 import jims from "./company/jims.png";
 import telenet from "./company/telenet.png";
@@ -57,4 +58,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  python,
 };

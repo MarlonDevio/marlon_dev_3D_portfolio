@@ -22,6 +22,7 @@ import {
   threejs,
   freelance,
   telenet,
+  python,
 } from "../assets";
 
 export const navLinks = [
@@ -109,8 +110,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "python",
+    icon: python,
   },
 ];
 
