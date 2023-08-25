@@ -22,13 +22,13 @@ function App() {
         </div>
 
         <About />
+        <Experience />
+        <Tech />
         <h1 className="font-poppins ">
           UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER
           CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION
           UNDER CONSTRUCTION UNDER CONSTRUCTION UNDER CONSTRUCTION{" "}
         </h1>
-        {/*<Experience />*/}
-        {/*<Tech />*/}
         {/*<Works />*/}
         {/*<Feedbacks />*/}
         {/*<div className="relative z-0">*/}
